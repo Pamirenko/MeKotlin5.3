@@ -1,0 +1,30 @@
+package raw
+
+data class ItXXXXXXX(
+    val a: AXXXXXXXXX,
+    val bm: Int,
+    val c: CXXXXXX,
+    val cix: Int,
+    val e: EXXXXX,
+    val g: GXXXXX,
+    val hd: Boolean,
+    val ind: Int,
+    val `it`: List<ItXXXXXXXX>,
+    val ix: Int,
+    val ks: KsXXXXXXXXXX,
+    val lc: Int,
+    val lj: Int,
+    val ml: Int,
+    val mn: String,
+    val nm: String,
+    val np: Int,
+    val o: OX,
+    val p: PXXXXXXXXX,
+    val r: Int,
+    val s: SXXXXXXXXX,
+    val sa: SaXXXXX,
+    val sk: SkXXXXX,
+    val t: Int,
+    val ty: String,
+    val w: W
+)
